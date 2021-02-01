@@ -20,6 +20,8 @@ namespace InsuranceCalculator
         public Company()
         {
             InitializeComponent();
+
+            this.Text = CommonFunctions.GetMessageCaption() + " - Company";
         }
 
         private void btnBrowse_Click(object sender, EventArgs e)
