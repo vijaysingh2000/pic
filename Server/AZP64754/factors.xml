@@ -1,0 +1,49 @@
+<company>
+	<formula>(((ANNUALBASERATE * ZIPCODE * BREED * AGE * COINUSRANCE * DEDUCTIBLE * PRESCRIPTION_MEDICATION) * VET_VISIT * PHYSICAL_THERAPY) * PARTNER_DISCOUNT) + MINIMUMANNUALPREMIUM + PREVENTIVE_CARE</formula>
+	<parameter name="ANNUALBASERATE">
+		<item value="*" factor="306.40"/>
+	</parameter>
+	<parameter name="ZIPCODE">		
+		<item value="92619" factor="0.9051"/>
+		<item value="92833" factor="1.1670"/>
+	</parameter>
+	<parameter name="BREED">
+		<item value="Boxer" factor="1.585"/>
+		<item value="English Bulldog" factor="1.949"/>
+	</parameter>
+	<parameter name="AGE">	
+		<item value="0" factor="0.9700"/>
+		<item value="1" factor="0.9700"/>
+	</parameter>
+	<parameter name="COINUSRANCE">	
+		<item value="90%" factor="0.8980"/>
+		<item value="80%" factor="0.8336"/>
+	</parameter>
+	<parameter name="DEDUCTIBLE">
+		<item value="$250" factor="1.00390"/>
+		<item value="$100" factor="1.30812"/>		
+	</parameter>	
+	<parameter name="PRESCRIPTION MEDICATION">
+		<item value="Included" factor="1.2"/>
+		<item value="Excluded" factor="1.0"/>
+	</parameter>		
+	<parameter name="PARTNER DISCOUNT">	
+		<item value="TIER1" factor="0.85"/>
+		<item value="TIER2" factor="0.90"/>
+	</parameter>
+	<parameter name="MINIMUMANNUALPREMIUM">
+		<item value="*" factor="120"/>
+	</parameter>
+	<parameter name="VET VISIT">
+		<item value="Included" factor="1.2"/>
+		<item value="Excluded" factor="1.0"/>
+	</parameter>
+	<parameter name="PHYSICAL THERAPY">
+		<item value="Included" factor="1.065"/>
+		<item value="Excluded" factor="1.0"/>	
+	</parameter>
+	<parameter name="PREVENTIVE CARE">
+		<item value="packageD10" factor="240"/>
+		<item value="packageD9" factor="216"/>			
+	</parameter>	
+</company>

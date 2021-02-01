@@ -1,0 +1,12 @@
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\bin\Debug\ExcelToXmlConvertor.exe.config
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\bin\Debug\ExcelToXmlConvertor.exe
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\bin\Debug\ExcelToXmlConvertor.pdb
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.ExcelToXmlConvertor.resources
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.Properties.Resources.resources
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.csproj.GenerateResource.cache
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.csproj.CoreCompileInputs.cache
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.exe
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.pdb
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\bin\Debug\DocumentFormat.OpenXml.dll
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\bin\Debug\DocumentFormat.OpenXml.xml
+C:\InsuranceCalculator\ExcelToXMLConvertor\ExcelToXmlConvertor\obj\Debug\ExcelToXmlConvertor.csproj.CopyComplete

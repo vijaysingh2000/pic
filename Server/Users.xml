@@ -1,0 +1,5 @@
+<users>
+	<user id="abcd1" password="abcd1"/>
+	<user id="abcd2" password="abcd2"/>
+	<user id="abcd3" password="abcd3"/>
+</users>
